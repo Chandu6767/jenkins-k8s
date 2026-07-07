@@ -31,12 +31,22 @@ data:
       EA1: true
       EA2: true
       EA3: true
+
     integrityMaxRate:
       uplink: full
       downlink: full
+
     uacAic:
       mps: false
       mcs: false
+
+    uacAcc:
+      normalClass: 0
+      class11: false
+      class12: false
+      class13: false
+      class14: false
+      class15: false
 
     sessions:
       - type: IPv4

@@ -34,6 +34,9 @@ data:
     integrityMaxRate:
       uplink: full
       downlink: full
+    uacAic:
+      mps: false
+      mcs: false
 
     sessions:
       - type: IPv4

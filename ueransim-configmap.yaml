@@ -31,6 +31,9 @@ data:
       EA1: true
       EA2: true
       EA3: true
+    integrityMaxRate:
+      uplink: full
+      downlink: full
 
     sessions:
       - type: IPv4
